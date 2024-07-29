@@ -2,7 +2,7 @@
   "name": "com.bluesound",
   "main": "app.js",
   "dependencies": {
-    "fast-xml-parser": "^4.3.2",
+    "fast-xml-parser": "^4.4.1",
     "node-fetch": "^2.7.0"
   },
   "scripts": {
